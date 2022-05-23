@@ -7,6 +7,9 @@
 
         <?php
             /*
+            
+            Esta alteração foi feita no browser 22/mai
+            
             //NOME
             $nome = 'Ricardo';
 
